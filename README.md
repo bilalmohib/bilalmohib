@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 **Muhammad-Bilal-7896/Muhammad-Bilal-7896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on 
-- #React,
-- #React Redux,
-- #HTML,
-- #CSS,
-- #Javascript,
-- #React native,
-- #firebase,
-- #nosql,
-- #Databases,
-- #Web development,
-- #Mobile Development.
++ #React,
++ #React Redux,
++ #HTML,
++ #CSS,
++ #Javascript,
++ #React native,
++ #firebase,
++ #nosql,
++ #Databases,
++ #Web development,
++ #Mobile Development.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
