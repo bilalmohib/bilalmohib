@@ -35,16 +35,7 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - + #React,
-+ #React Redux,
-+ #HTML,
-+ #CSS,
-+ #Javascript,
-+ #React native,
-+ #firebase,
-+ #nosql,
-+ #Databases,
-+ #Web development,
-+ #Mobile Development.
+  #React Redux, #HTML,#CSS,#Javascript,#React native,#firebase,#nosql,#Databases,#Web development,#Mobile Development.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
