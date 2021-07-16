@@ -22,14 +22,20 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 + #HTML,
 + #CSS,
 + #Javascript,
++ PostMan
++ C#
++ SQL
++ API
++ Next JS
 + #React native,
 + #firebase,
++ firestore
 + #nosql,
 + #Databases,
 + #Web development,
 + #Mobile Development.
 - 🌱 I’m currently learning ...
-+ #mongoDB,#SQL,#NodeJS,#java,#flutter,#dart,#firestore,#NextJS 
++ #mongoDB,#NodeJS,#java,#flutter,#dart
 - 👯 I’m looking to collaborate on ...
  #ReactJS,#ReactNative,NextJS projects
 - 🤔 I’m looking for help with ...
