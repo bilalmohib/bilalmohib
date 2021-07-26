@@ -43,7 +43,8 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 - + #React,
   #React Redux, #HTML,#CSS,#Javascript,#React native,#firebase,#nosql,#Databases,#Web development,#Mobile Development.
 - 📫 How to reach me: ...
-- https://www.linkedin.com/in/muhammad-bilal-028843199/
+- <a href="https://www.linkedin.com/in/muhammad-bilal-028843199/" >Linkedin</a>
+- <a href="https://www.upwork.com/freelancers/~013a136c7081592898" >Upwork</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
