@@ -53,9 +53,9 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
   <a href="https://github.com/Muhammad-Bilal-7896"><span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-7896&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-7896&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Bilal&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Bilal-7896&theme=radical" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Bilal-7896&theme=dracula" />
     </span></a>
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-7896&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
