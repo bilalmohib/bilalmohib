@@ -60,6 +60,6 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 </p>
 <hr/>
 ## Some of Mine Responsive Sites
-<p align="center">
-   <a src="https://exampleproject-e285b.web.app/" title="A crypto currency site">A CryptoCurrency Site<a/>
+<p align="left">
+   <a href="https://exampleproject-e285b.web.app/" title="A crypto currency site">A CryptoCurrency Site<a/>
 </p>
