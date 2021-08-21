@@ -60,11 +60,17 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 </p>
 <hr/>
 <h2>Some of Mine Responsive Sites</h2>
-<p align="left">
-   <a href="https://pharmapedia-pakistan-7896.web.app/" title="A Property Website Similar to Property24.com">A Property Website Similar to | <a href="https://www.property24.com/">Property24.com</a> LANDING page<a/><br/>
-       <a href="https://pharmapedia-pakistan-7896.web.app/search" title="A Property Website Similar to Property24.com">A Property Website Similar to | <a href="https://www.property24.com/for-sale/gauteng/1">Property24.com</a> SEARCH Page <a/><br/>
-           <a href="https://pharmapedia-pakistan-7896.web.app/details" title="A Property Website Similar to property24.com">A Property Website Similar to | <a href="https://www.property24.com/for-sale/montana/pretoria/gauteng/3984/110175881?plId=845468&plt=2">Property24.com</a> DETAILS Page </a>
+<ul>
+ <li>
+  <h3> Property Website </h3>
+  <p align="left">
+   <a href="https://pharmapedia-pakistan-7896.web.app/" title="A Property Website Similar to Property24.com">LANDING page Similar to | <a href="https://www.property24.com/">Property24.com</a><a/><br/>
+       <a href="https://pharmapedia-pakistan-7896.web.app/search" title="A Property Website Similar to Property24.com">SEARCH Page Similar to | <a href="https://www.property24.com/for-sale/gauteng/1">Property24.com</a> <a/><br/>
+           <a href="https://pharmapedia-pakistan-7896.web.app/details" title="A Property Website Similar to property24.com">DETAILS Page Similar to | <a href="https://www.property24.com/for-sale/montana/pretoria/gauteng/3984/110175881?plId=845468&plt=2">Property24.com</a>  </a>
             <br/>
-               <a href="https://exampleproject-e285b.web.app/" title="A Property Website Similar to property24.com">A Property Website Similar to | <a href="https://www.property24.com/">Property24.com</a> ADMIN Page<a/>
+               <a href="https://exampleproject-e285b.web.app/" title="A Property Website Similar to property24.com">ADMIN Page<a/>
             <a/>
 </p>
+ </li>
+    
+</ul>
