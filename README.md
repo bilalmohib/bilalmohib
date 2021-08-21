@@ -88,11 +88,11 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
       <li>
   <h3> An OLX Clone Using React JS,Fierbase and React Redux </h3>
   <p align="left">
-   <a href="https://fastsellat.web.app/" title="OLX clone Using Firebase and React JS">OLX Clone<a/><br/>
+   <a href="https://fastsellat.web.app/" title="OLX clone Using Firebase and React JS">OLX Clone<a/>
 </p>
    
    <p align="left">
-   <a href="https://github.com/Muhammad-Bilal-7896/olx-clone" title="Github Repository of OLX clone Using Firebase and React JS">GITHUB Repo of OLX clone<a/></br>
+   <a href="https://github.com/Muhammad-Bilal-7896/olx-clone" title="Github Repository of OLX clone Using Firebase and React JS">GITHUB Repo of OLX clone<a/></br></br>
     Note: Please use your own firebase credentials while developing locally
     </p>
  </li> 
