@@ -23,10 +23,10 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 + #CSS,
 + #Javascript,
 + PostMan
-+ C#
-+ SQL
++ #C#
++ #SQL
 + API
-+ Next JS
++ #Next JS
 + #React native,
 + #firebase,
 + firestore
@@ -40,7 +40,7 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
  #ReactJS,#ReactNative,NextJS projects
 - 💬 Ask me about ...
 - + #React,
-  #React Redux, #HTML,#CSS,#Javascript,#React native,#firebase,#nosql,#Databases,#Web development,#Mobile Development.
+  #React Redux, #HTML,#CSS,#Javascript,#React native,#firebase,#Nosql,#Databases,#Web development,#Mobile Development.
 - 📫 How to reach me: ...
 - <a href="https://www.linkedin.com/in/muhammad-bilal-028843199/" >Linkedin</a>
 <!-- - <a href="https://www.upwork.com/freelancers/~013a136c7081592898" >Upwork</a> -->
@@ -60,9 +60,9 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 </p>
 <hr/>
 <h2>Some of Mine Responsive Sites</h2>
-<ul>
+<ol>
  <li>
-  <h3> Property Website </h3>
+  <h3> A Property Website </h3>
   <p align="left">
    <a href="https://pharmapedia-pakistan-7896.web.app/" title="A Property Website Similar to Property24.com">LANDING page Similar to | <a href="https://www.property24.com/">Property24.com</a><a/><br/>
        <a href="https://pharmapedia-pakistan-7896.web.app/search" title="A Property Website Similar to Property24.com">SEARCH Page Similar to | <a href="https://www.property24.com/for-sale/gauteng/1">Property24.com</a> <a/><br/>
@@ -72,5 +72,28 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
             <a/>
 </p>
  </li>
-    
-</ul>
+   <li>
+  <h3> A Construction company website </h3>
+  <p align="left">
+   <a href="https://alumtec.ca/" title="A Construction Company Website">LANDING page <a/><br/>
+   <a href="https://alumtec.ca/career" title="A Construction Company Website">CAREER page <a/><br/>
+   <a href="https://alumtec.ca/about" title="A Construction Company Website">ABOUT US page <a/><br/>
+   <a href="https://alumtec.ca/services" title="A Construction Company Website">SERVICES page <a/><br/>
+   <a href="https://alumtec.ca/products" title="A Construction Company Website">PRODUCTS page <a/><br/>
+   <a href="https://alumtec.ca/health" title="A Construction Company Website">HEALTH page <a/><br/>
+   <a href="https://alumtec.ca/admin" title="A Construction Company Website">ADMIN page <a/><br/>
+   <a href="https://alumtec.ca/contact" title="A Construction Company Website">CONTACT US page <a/><br/>
+</p>
+ </li> 
+      <li>
+  <h3> An OLX Clone Using React JS,Fierbase and React Redux </h3>
+  <p align="left">
+   <a href="https://fastsellat.web.app/" title="OLX clone Using Firebase and React JS">OLX Clone<a/><br/>
+</p>
+   
+   <p align="left">
+   <a href="https://github.com/Muhammad-Bilal-7896/olx-clone" title="Github Repository of OLX clone Using Firebase and React JS">GITHUB Repo of OLX clone<a/><br/>
+</p>
+       <p>Note: Please use your own firebase credentials while developing locally</p>
+ </li> 
+</ol>
