@@ -61,10 +61,10 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 <hr/>
 <h2>Some of Mine Responsive Sites</h2>
 <p align="left">
-   <a href="https://pharmapedia-pakistan-7896.web.app/" title="A crypto currency site">A Property Website Similar to <a href="https://www.property24.com/">Property24.com</a> LANDING page<a/><br/>
-       <a href="https://pharmapedia-pakistan-7896.web.app/search" title="A crypto currency site">A Property Website Similar to <a href="https://www.property24.com/for-sale/gauteng/1">Property24.com</a> SEARCH Page <a/><br/>
-           <a href="https://pharmapedia-pakistan-7896.web.app/details" title="A crypto currency site">A Property Website Similar to <a href="https://www.property24.com/for-sale/montana/pretoria/gauteng/3984/110175881?plId=845468&plt=2">Property24.com</a> DETAILS Page </a>
+   <a href="https://pharmapedia-pakistan-7896.web.app/" title="A crypto currency site">A Property Website Similar to | <a href="https://www.property24.com/">Property24.com</a> LANDING page<a/><br/>
+       <a href="https://pharmapedia-pakistan-7896.web.app/search" title="A crypto currency site">A Property Website Similar to | <a href="https://www.property24.com/for-sale/gauteng/1">Property24.com</a> SEARCH Page <a/><br/>
+           <a href="https://pharmapedia-pakistan-7896.web.app/details" title="A crypto currency site">A Property Website Similar to | <a href="https://www.property24.com/for-sale/montana/pretoria/gauteng/3984/110175881?plId=845468&plt=2">Property24.com</a> DETAILS Page </a>
             <br/>
-               <a href="https://exampleproject-e285b.web.app/" title="A crypto currency site">A Property Website Similar to <a href="https://www.property24.com/">Property24.com</a> ADMIN Page<a/>
+               <a href="https://exampleproject-e285b.web.app/" title="A crypto currency site">A Property Website Similar to | <a href="https://www.property24.com/">Property24.com</a> ADMIN Page<a/>
             <a/>
 </p>
