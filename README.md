@@ -45,6 +45,9 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 - <a href="https://www.linkedin.com/in/muhammad-bilal-028843199/" >Linkedin</a>
 <!-- - <a href="https://www.upwork.com/freelancers/~013a136c7081592898" >Upwork</a> -->
 
+## Contribution Graph
+
+[![Muhammad Bilal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&theme=xcode)](https://github.com/Muhammad-Bilal-7896)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-7896&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
