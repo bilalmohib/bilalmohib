@@ -49,6 +49,17 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 
 [![Muhammad Bilal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&theme=xcode)](https://github.com/Muhammad-Bilal-7896)
 
+<hr/>
+<h2><i>⚙️ GitHub Analytics</i></h2>
+<p align="center">
+  <a href="https://github.com/saadfareed"><span>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadfareed&theme=dracula" />
+    </span></a>
+</p>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-7896&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-7896&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
