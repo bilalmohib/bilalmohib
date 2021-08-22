@@ -91,7 +91,7 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 </p>
  </li> 
       <li>
-  <h3> An OLX Clone Using React JS,Fierbase and React Redux </h3>
+  <h3> An OLX Clone Using React JS,Firebase and React Redux </h3>
   <p align="left">
    <a href="https://fastsellat.web.app/" title="OLX clone Using Firebase and React JS">OLX Clone<a/></br>
     <a href="https://github.com/Muhammad-Bilal-7896/olx-clone" title="Github Repository of OLX clone Using Firebase and React JS">GITHUB Repo of OLX clone<a/></br></br>
