@@ -58,7 +58,12 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Bilal-7896&theme=dracula" />
     </span></a>
 </p>
-<hr/>
+<hr>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
+</p>
+
 <h2>Some of Mine Responsive Sites</h2>
 <ol>
  <li>
