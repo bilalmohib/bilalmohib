@@ -61,7 +61,7 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 <hr>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
+  <img src="https://profile-counter.glitch.me/Muhammad-Bilal-7896/count.svg" />
 </p>
 
 <h2>Some of Mine Responsive Sites</h2>
