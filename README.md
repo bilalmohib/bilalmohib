@@ -60,7 +60,7 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 <hr>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-7896&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-7896&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
 </p>
 <hr/>
 <h2 align="centre">🏆 GitHub Profile Trophy:</h2>
