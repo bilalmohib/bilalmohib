@@ -58,6 +58,20 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
     </span></a>
 </p>
 <hr>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
+</p>
+<hr/>
+<h2 align="centre">🏆 GitHub Profile Trophy:</h2>
+<p align="center">
+<a href="https://github.com/saadfareed">
+  <img width=700 src="https://github-profile-trophy.vercel.app/?username=saadfareed&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
+<hr>
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Muhammad-Bilal-7896/count.svg" />
