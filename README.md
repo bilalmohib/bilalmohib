@@ -1,4 +1,4 @@
-### Hey Learner If you ever face a problem.Start travelling with the problem until the problem gives up.But you should'nt.Congratulations you solved your problem.
+### Hi! Learner If you ever face a problem.Start travelling with the problem until the problem gives up.But you should'nt.Congratulations you solved your problem.
 <!--
 **Muhammad-Bilal-7896/Muhammad-Bilal-7896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
