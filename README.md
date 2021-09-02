@@ -22,7 +22,7 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 + #CSS,
 + #Javascript,
 + PostMan
-+ #C#
++ C#
 + #SQL
 + API
 + #Next JS
