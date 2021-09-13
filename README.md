@@ -1,4 +1,4 @@
-### Hi! Learner If you ever face a problem.Start travelling with the problem until the problem gives up.But you should'nt.Congratulations you solved your problem.
+### Dear Learner If you ever face a problem.Start travelling with the problem until the problem gives up.But you should'nt.Congratulations you solved your problem.
 <!--
 **Muhammad-Bilal-7896/Muhammad-Bilal-7896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -119,6 +119,5 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
     <a href="https://github.com/Muhammad-Bilal-7896/olx-clone" title="Github Repository of OLX clone Using Firebase and React JS">GITHUB Repo of OLX clone<a/></br></br>
     Note: Please use your own firebase credentials while developing locally
 </p>
- 
  </li> 
 </ol>
