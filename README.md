@@ -31,6 +31,8 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 + #firebase,
 + firestore
 + #nosql,
++ #python
++ #typescript,
 + #Databases,
 + #Web development,
 + #Mobile Development.
@@ -40,7 +42,7 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
  #ReactJS,#ReactNative,NextJS projects
 - 💬 Ask me about ...
 - + #React,
-  #React Redux, #HTML,#CSS,#Javascript,#React native,#firebase,#Nosql,#Databases,#NextJS,#Web development,#Mobile Development.
+  #React Redux, #HTML,#CSS,#Javascript,#React native,#firebase,#firestore,#Nosql,#Databases,#NextJS,#Web development,#Mobile Development.
 - 📫 How to reach me: ...
 - <a href="https://www.linkedin.com/in/muhammad-bilal-028843199/" >Linkedin</a>
 
