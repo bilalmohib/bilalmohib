@@ -1,4 +1,9 @@
 ### Dear Learner If you ever face a problem.Start travelling with the problem until the problem gives up.But you should'nt.Congratulations you solved your problem.
+
+![Snake animation](https://github.com/Muhammad-Bilal-7896/karthik558/blob/output/github-contribution-grid-snake.svg)
+<br>
+![HitCount](https://komarev.com/ghpvc/?username=Muhammad-Bilal-7896&style=round&color=8712ff&label=PROFILE+VIEWS)
+
 <!--
 **Muhammad-Bilal-7896/Muhammad-Bilal-7896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,7 +52,7 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 - <a href="https://www.linkedin.com/in/muhammad-bilal-028843199/" >Linkedin</a>
 
 <details>
-<summary><h2><b>⚙️ GitHub Analytics</i></b> ⤵️</summary>
+<summary><b>⚙️ GitHub Analytics</i></b> ⤵️</summary>
 <p align="left">
     <img 
 alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-7896&show_icons=true&hide=issues&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="500" />
@@ -61,11 +66,8 @@ alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mu
 
  ## Contribution Graph
  
-  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&hide_border=true&area=true&bg_color=010017&color=c5c8ff&line=9dc0ff&point=fff" width="800" />
+  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&hide_border=true&area=true&bg_color=010017&color=c5c8ff&line=9dc0ff&point=fff" width="1000" />
  <br/>
-![Snake animation](https://github.com/Muhammad-Bilal-7896/blob/output/github-contribution-grid-snake.svg)
-<br>
-![HitCount](https://komarev.com/ghpvc/?username=Muhammad-Bilal-7896&style=round&color=8712ff&label=PROFILE+VIEWS)
 <br/>
 <h2>Some of Mine Responsive Sites</h2>
 <ol>
