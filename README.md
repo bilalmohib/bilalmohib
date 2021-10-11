@@ -66,7 +66,7 @@ alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mu
 
  ## Contribution Graph
  
-  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&hide_border=true&area=true&bg_color=010017&color=c5c8ff&line=9dc0ff&point=fff" width="1000" />
+  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&hide_border=true&area=true&bg_color=010017&color=c5c8ff&line=9dc0ff&point=fff" width="500" />
  <br/>
 <br/>
 <h2>Some of Mine Responsive Sites</h2>
