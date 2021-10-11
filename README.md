@@ -57,13 +57,13 @@ alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mu
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-7896&hide=html&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" />
     <br>
-    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-7896&theme=holi-theme&hide_border=true" width="500" />
+    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-7896&theme=holi-theme&hide_border=true" width="1000" />
     <br>
 </p>
 
  ## Contribution Graph
  
-  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&hide_border=true&area=true&bg_color=010017&color=c5c8ff&line=9dc0ff&point=fff" width="800" />
+  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&hide_border=true&area=true&bg_color=010017&color=c5c8ff&line=9dc0ff&point=fff" width="1000" />
  <br/>
 <br/>
 <h2>Some of Mine Responsive Sites</h2>
