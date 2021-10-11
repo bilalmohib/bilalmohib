@@ -3,8 +3,6 @@
 <!--![Snake animation](https://github.com/Muhammad-Bilal-7896/karthik558/blob/output/github-contribution-grid-snake.svg)-->
 <br>
 
-![HitCount](https://komarev.com/ghpvc/?username=Muhammad-Bilal-7896&style=round&color=8712ff&label=PROFILE+VIEWS)
-
 <!--
 **Muhammad-Bilal-7896/Muhammad-Bilal-7896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
