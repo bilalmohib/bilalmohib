@@ -47,7 +47,7 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 - <a href="https://www.linkedin.com/in/muhammad-bilal-028843199/" >Linkedin</a>
 
 <details>
-<summary><b>Expand ⤵️</summary>
+<summary><h2><i>⚙️ GitHub Analytics</i></h2> ⤵️</summary>
 <p align="left">
     <img 
 alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-7896&show_icons=true&hide=issues&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="500" />
@@ -56,38 +56,15 @@ alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mu
     <br>
     <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-7896&theme=holi-theme&hide_border=true" width="500" />
     <br>
-    <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&hide_border=true&area=true&bg_color=010017&color=c5c8ff&line=9dc0ff&point=fff" width="500" />
+
 </p>
 </details>
 
+ ## Contribution Graph
+    <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&hide_border=true&area=true&bg_color=010017&color=c5c8ff&line=9dc0ff&point=fff" width="180em" />
 
-## Contribution Graph
-
-[![Muhammad Bilal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&theme=holi-theme)](https://github.com/Muhammad-Bilal-7896)
-
-<hr/>
-<h2><i>⚙️ GitHub Analytics</i></h2>
-<p align="center">
-  <a href="https://github.com/Muhammad-Bilal-7896"><span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-7896&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Bilal-7896&hide=assembly,css&layout=compact&langs_count=10&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Bilal-7896&theme=dracula" />
-    </span></a>
-</p>
-<hr>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-7896&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
-</p>
-<hr/>
-<h2 align="centre">🏆 GitHub Profile Trophy:</h2>
-<p align="center">
-<a href="https://github.com/Muhammad-Bilal-7896">
-  <img width=700 src="https://github-profile-trophy.vercel.app/?username=Muhammad-Bilal-7896&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
-<hr>
-
+ <br/>
+ 
 <h2>Some of Mine Responsive Sites</h2>
 <ol>
  <li>
