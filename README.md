@@ -1,6 +1,6 @@
 ### Dear Learner If you ever face a problem.Start travelling with the problem until the problem gives up.But you should'nt.Congratulations you solved your problem.
 
-![Snake animation](https://github.com/Muhammad-Bilal-7896/karthik558/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/Muhammad-Bilal-7896/karthik558/blob/output/github-contribution-grid-snake.svg)-->
 <br>
 ![HitCount](https://komarev.com/ghpvc/?username=Muhammad-Bilal-7896&style=round&color=8712ff&label=PROFILE+VIEWS)
 
