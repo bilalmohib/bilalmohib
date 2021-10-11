@@ -73,12 +73,6 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 </p>
 <hr>
 
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Muhammad-Bilal-7896/count.svg" />
-</p>
-
 <h2>Some of Mine Responsive Sites</h2>
 <ol>
  <li>
