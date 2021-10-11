@@ -60,10 +60,12 @@ alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mu
 </details>
 
  ## Contribution Graph
-    <img alt="Contribution Graph" 
-    src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&hide_border=true&area=true&bg_color=010017&color=c5c8ff&line=9dc0ff&point=fff" width="500" />
- <br/>
  
+  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&hide_border=true&area=true&bg_color=010017&color=c5c8ff&line=9dc0ff&point=fff" width="180em" />
+ <br/>
+ ![Snake animation](https://github.com/Muhammad-Bilal-7896/blob/output/github-contribution-grid-snake.svg)
+<br>
+![HitCount](https://komarev.com/ghpvc/?username=Muhammad-Bilal-7896&style=round&color=8712ff&label=PROFILE+VIEWS)
 <h2>Some of Mine Responsive Sites</h2>
 <ol>
  <li>
