@@ -39,7 +39,9 @@ Hi I am a Web and mobile developer currently working in React,React native.I lik
 + #typescript,
 + #Databases,
 + #Web development,
++ #VueJS
 + #Mobile Development.
++ 
 - 🌱 I’m currently learning ...
 + #mongoDB,#NodeJS,#java,#flutter,#dart,#Typescript,#Open CV,#VUEJS
 - 👯 I’m looking to collaborate on ...
