@@ -25,6 +25,7 @@ I am a Web and mobile developer currently working in React,React native.I like t
 + #HTML,
 + #CSS,
 + #SCSS,
++ #ChakraUI
 + #Javascript,
 + PostMan
 + C#
