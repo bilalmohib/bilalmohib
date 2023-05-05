@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am a Web and mobile developer currently working in React,React native.I like to work on different programming projects.
 
 <h2>🔭 I’m currently working on <a href="https://taskencher.com/" title="TaskEncher- A Project Management System for Effective Collaboration and Team Management">
-TaskEncher- A Project Management System for Effective Collaboration and Team Management
+TaskEncher
 </a></h2> 
 <details>
 <summary>
