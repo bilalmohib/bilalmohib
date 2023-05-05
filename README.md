@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 I am a Web and mobile developer currently working in React,React native.I like to work on different programming projects.
 
-- 🔭 I’m currently working on 
+<h2>🔭 I’m currently working on</h2> 
 <details>
 <summary>
 <h3>
