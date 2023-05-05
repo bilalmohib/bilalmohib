@@ -50,6 +50,8 @@ Audio calling for efficient communication between team members.
 TaskEncher addresses common remote team challenges, such as communication issues, confusion about assigned tasks, and lack of visibility into team progress. By implementing TaskEncher, teams can improve collaboration, resolve conflicts more easily, and complete projects more efficiently. The integrated chat features, along with the upcoming calling features, ensure that team members can communicate effectively in both individual and project-wide settings.
 </p>
 </details>
+
+Technologies Worked With
 + #React,
 + #React Redux,
 + #HTML,
