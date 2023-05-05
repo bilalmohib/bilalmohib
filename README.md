@@ -20,6 +20,36 @@ Here are some ideas to get you started:
 I am a Web and mobile developer currently working in React,React native.I like to work on different programming projects.
 
 - 🔭 I’m currently working on 
+<details>
+<summary>
+<h3>
+<a href="https://taskencher.com/" title="TaskEncher- A Project Management System for Effective Collaboration and Team Management">
+TaskEncher- A Project Management System for Effective Collaboration and Team Management
+</a>
+</h3>
+</summary>
+<p>
+Summary:
+TaskEncher is a project management software designed to facilitate remote teams in organizing, assigning, prioritizing, and tracking tasks efficiently while also providing a platform for effective communication. In the digital era, work resources and materials are primarily saved online for global accessibility, making proper management of workflow essential for success. TaskEncher aims to provide a comprehensive solution for teams to manage their tasks, deadlines, and communication seamlessly.
+
+Implemented Key Features of TaskEncher include:
+
+Organizing, assigning, and prioritizing tasks using color codes.
+Monitoring team progress and marking milestones to keep projects on schedule.
+Setting goals, tracking deliverables, and managing deadlines.
+Providing timely reminders to keep teams on track.
+Sharing relevant content related to tasks.
+Offering transparency to recognize who is responsible for each task and when it will be completed.
+Enabling one-on-one chat for direct communication between team members.
+Facilitating project chat, allowing team-wide discussions and collaboration.
+Upcoming Features:
+
+Conference calling for team meetings and discussions.
+Video calling for face-to-face communication and improved collaboration.
+Audio calling for efficient communication between team members.
+TaskEncher addresses common remote team challenges, such as communication issues, confusion about assigned tasks, and lack of visibility into team progress. By implementing TaskEncher, teams can improve collaboration, resolve conflicts more easily, and complete projects more efficiently. The integrated chat features, along with the upcoming calling features, ensure that team members can communicate effectively in both individual and project-wide settings.
+</p>
+</details>
 + #React,
 + #React Redux,
 + #HTML,
