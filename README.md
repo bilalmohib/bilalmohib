@@ -100,9 +100,9 @@ alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mu
       <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-7896&theme=holi-theme&hide_border=true" width="800" />
 </p>
 
- ## Contribution Graph
+ ## Profile Views
  
-  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-7896&hide_border=true&area=true&bg_color=010017&color=c5c8ff&line=9dc0ff&point=fff" width="1000" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Bilal-7896)
  <br/>
 <br/>
 <h2>Some of Projects</h2>
