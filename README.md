@@ -92,7 +92,8 @@ Technologies Worked With
 
 <h2>⚙️ GitHub Analytics</i><h2/>
 <p aligh="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-7896&show_icons=true&theme=gotham" alt="Muhammad Bilal" />
+   <img 
+alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-7896&show_icons=true&hide=issues&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="600" />
     <br/>
     <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-7896&hide=jupyternotebook,html,css&hide_border=true&layout=compact&langs_count=18&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&exclude_repo=firestore-firebase-python-basics" width="600" />
     <br/>
