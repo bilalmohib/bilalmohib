@@ -3,6 +3,11 @@
 <!--![Snake animation](https://github.com/Muhammad-Bilal-7896/karthik558/blob/output/github-contribution-grid-snake.svg)-->
 <br>
 
+## Profile Views
+ 
+ ![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Bilal-7896)
+ <br/>
+
 <!--
 **Muhammad-Bilal-7896/Muhammad-Bilal-7896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -100,10 +105,6 @@ alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mu
       <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-7896&theme=holi-theme&hide_border=true" width="800" />
 </p>
 
- ## Profile Views
- 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Bilal-7896)
- <br/>
 <br/>
 <h2>Some of Projects</h2>
 <ol>
