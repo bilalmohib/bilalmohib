@@ -107,6 +107,19 @@ alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mu
 <br/>
 <h2>Some of Projects</h2>
 <ol>
+  <li>
+  <h3> A Chemical Distribution Company Website </h3>
+  <p align="left">
+   <a href="https://harris-and-ford.vercel.app/" title="A Chemical Distribution Company Website">LANDING page <a/><br/>
+   <a href="https://harris-and-ford.vercel.app/about" title="A Chemical Distribution Company Website">ABOUT US page <a/><br/>
+   <a href="https://harris-and-ford.vercel.app/products" title="A Chemical Distribution Company Website">PRODUCTS page <a/><br/>
+   <a href="https://harris-and-ford.vercel.app/services" title="A Chemical Distribution Company Website">SERVICES page <a/><br/>
+   <a href="https://harris-and-ford.vercel.app/community" title="A Chemical Distribution Company Website">COMMUNITY page <a/><br/>
+   <a href="https://harris-and-ford.vercel.app/news" title="A Chemical Distribution Company Website">NEWS page <a/><br/>
+   <a href="https://harris-and-ford.vercel.app/careers" title="A Chemical Distribution Company Website">CAREERS page <a/><br/>
+   <a href="https://harris-and-ford.vercel.app/contact" title="A Chemical Distribution Company Website">CONTACT US page <a/><br/>
+</p>
+ </li> 
 <li>
 <h3> TaskEncher - Project Management Software</h3>
  <p align="left">
