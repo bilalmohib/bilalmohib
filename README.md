@@ -26,6 +26,7 @@ I know one thing if a developer is capable of performing CRUD operations in any 
 <h3><a href="https://www.linkedin.com/newsletters/databases-are-not-difficult-6945124839913320448/?displayConfirmation=true">Full Stack Dev Blog</a></h3>
 > If you find time read out my published articles. It will teach you step by step without missing any thing.
 > Here I right about treding databases and how we can perform CRUD operations with them and improve our scalability. I have written three blogs till now:
+
 - 1) <a href="https://www.linkedin.com/newsletters/databases-are-not-difficult-6945124839913320448/?displayConfirmation=true">Next JS + Cassandra DB Todo App</a> <br/>
 - 2) <a href="https://www.linkedin.com/pulse/how-develop-todo-app-next-js-redis-database-from-scratch-bilal">Next JS + Redis Todo App</a> <br/>
 - 3) <a href="https://www.linkedin.com/pulse/how-develop-realtime-chat-app-using-redisjson-next-js-muhammad-bilal/">Real Time Chat App With Redis And Next JS</a>
