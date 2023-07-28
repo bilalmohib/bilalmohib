@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 I am a Web and mobile developer currently working in React,React native.I like to work on different programming projects.
 
 # Full Stack Development Blog
-I know one thing if a developer is capable of performing CRUD operations in any tech stack in any database then he/she is capable of building large scale applications. As some who has the knowledge of building things from the groud up can go a long way in building any scalable software.
+I know one thing that, if a developer is capable of performing CRUD operations in any tech stack in any database then he/she is capable of building large scale applications. As some who has the knowledge of building things from the groud up can go a long way in building any scalable software.
 <h3><a href="https://www.linkedin.com/newsletters/databases-are-not-difficult-6945124839913320448/?displayConfirmation=true">Full Stack Dev Blog</a></h3>
 
-If you find time read out my published articles. It will teach you step by step without missing any thing.
+If you find out my articles helpful then please subsribe on linkedin news letter: [DATABASES ARE NOT DIFFICULT](https://www.linkedin.com/newsletters/databases-are-not-difficult-6945124839913320448/) and star that repository that is being used with in the blog. It will teach you step by step without missing any thing.
 Here I right about treding databases and how we can perform CRUD operations with them and improve our scalability. I have written three blogs till now:
 
 - 1) <a href="https://www.linkedin.com/newsletters/databases-are-not-difficult-6945124839913320448/?displayConfirmation=true">Next JS + Cassandra DB Todo App</a> <br/>
