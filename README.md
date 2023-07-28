@@ -21,6 +21,15 @@ Here are some ideas to get you started:
 -->
 I am a Web and mobile developer currently working in React,React native.I like to work on different programming projects.
 
+# Full Stack Development Blog
+> I know one thing if a developer is capable of performing CRUD operations in any tech stack in any database then he/she is capable of building large scale applications. As some who has the knowledge of building things from the groud up can go a long way in building any scalable software.
+<h3><a href="https://www.linkedin.com/newsletters/databases-are-not-difficult-6945124839913320448/?displayConfirmation=true">Full Stack Dev Blog</a></h3>
+> If you find time read out my published articles. It will teach you step by step without missing any thing.
+> Here I right about treding databases and how we can perform CRUD operations with them and improve our scalability. I have written three blogs till now:
+- 1) <a href="https://www.linkedin.com/newsletters/databases-are-not-difficult-6945124839913320448/?displayConfirmation=true">Next JS + Cassandra DB Todo App</a>**** 
+- 2) <a href="https://www.linkedin.com/pulse/how-develop-todo-app-next-js-redis-database-from-scratch-bilal">Next JS + Redis Todo App</a>**** 
+- 3) <a href="https://www.linkedin.com/pulse/how-develop-realtime-chat-app-using-redisjson-next-js-muhammad-bilal/">Real Time Chat App With Redis And Next JS</a>**** 
+
 <!--
 <h2>🔭 I’m currently working on <a href="https://taskencher.com/" title="TaskEncher- A Project Management System for Effective Collaboration and Team Management">
 TaskEncher
@@ -83,7 +92,7 @@ Technologies Worked With
 + #Data Science
 + 
 - 🌱 I’m currently learning ...
-+ #mongoDB,#NodeJS,#java,#flutter,#dart,#Typescript,#Open CV,#VUEJS,#WebScraping,#meteorjs,#GoLang,Graph QL
++ #mongoDB,#NodeJS,#java,#flutter,#dart,#Typescript,#Open CV,#VUEJS,#WebScraping,#GoLang,Graph QL
 - 👯 I’m looking to collaborate on ...
  #ReactJS,#ReactNative,NextJS projects
 - 💬 Ask me about ...
