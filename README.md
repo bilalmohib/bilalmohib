@@ -2,11 +2,11 @@
 
 ## Profile Views
  
- ![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Bilal-7896)
+ ![Profile Views](https://komarev.com/ghpvc/?username=bilalmohib)
  <br/>
 
 <!--
-**Muhammad-Bilal-7896/Muhammad-Bilal-7896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bilalmohib/bilalmohib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -106,11 +106,11 @@ Technologies Worked With
 <h2>⚙️ GitHub Analytics</i><h2/>
 <p aligh="center">
    <img 
-alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-7896&show_icons=true&hide=issues&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="600" />
+alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bilalmohib&show_icons=true&hide=issues&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="600" />
     <br/>
-    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-7896&hide=jupyternotebook,html,css&hide_border=true&layout=compact&langs_count=18&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&exclude_repo=firestore-firebase-python-basics" width="600" />
+    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmohib&hide=jupyternotebook,html,css&hide_border=true&layout=compact&langs_count=18&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&exclude_repo=firestore-firebase-python-basics" width="600" />
     <br/>
-      <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-7896&theme=holi-theme&hide_border=true" width="800" />
+      <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalmohib&theme=holi-theme&hide_border=true" width="800" />
 </p>
 
 <br/>
@@ -172,7 +172,7 @@ alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mu
   <h3> An OLX Clone Using React JS,Firebase and React Redux </h3>
   <p align="left">
    <a href="https://fastsellat.web.app/" title="OLX clone Using Firebase and React JS">OLX Clone<a/></br>
-    <a href="https://github.com/Muhammad-Bilal-7896/olx-clone" title="Github Repository of OLX clone Using Firebase and React JS">GITHUB Repo of OLX clone<a/></br></br>
+    <a href="https://github.com/bilalmohib/olx-clone" title="Github Repository of OLX clone Using Firebase and React JS">GITHUB Repo of OLX clone<a/></br></br>
     Note: Please use your own firebase credentials while developing locally
 </p>
  </li> 
