@@ -101,7 +101,7 @@ Technologies Worked With
 - + #React,
   #React Redux, #HTML,#CSS,#Javascript,#React native,#firebase,#firestore,#Nosql,#Databases,#NextJS,#Web development,#Mobile Development.
 - 📫 How to reach me: ...
-- <a href="https://www.linkedin.com/in/muhammad-bilal-028843199/" >Linkedin</a>
+- <a href="https://www.linkedin.com/in/bilalmohib/" >Linkedin</a>
 
 <h2>⚙️ GitHub Analytics</i><h2/>
 <p aligh="center">
