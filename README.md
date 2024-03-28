@@ -31,7 +31,7 @@ Here I right about treding databases and how we can perform CRUD operations with
 - 1) <a href="https://www.linkedin.com/newsletters/databases-are-not-difficult-6945124839913320448/?displayConfirmation=true">Next JS + Cassandra DB Todo App</a> <br/>
 - 2) <a href="https://www.linkedin.com/pulse/how-develop-todo-app-next-js-redis-database-from-scratch-bilal">Next JS + Redis Todo App</a> <br/>
 - 3) <a href="https://www.linkedin.com/pulse/how-develop-realtime-chat-app-using-redisjson-next-js-muhammad-bilal/">Real Time Chat App With Redis And Next JS</a>
-- 4) <a href="[https://www.linkedin.com/pulse/how-develop-realtime-chat-app-using-redisjson-next-js-muhammad-bilal/](https://www.linkedin.com/pulse/using-app-router-nextjs-right-way-achieve-ssr-always-muhammad-bilal-sw8ye/?trackingId=UqjQHuQQRa6Z9PJfuP6fIg%3D%3D)">Using App Router in NextJS the right way to achieve SSR always.</a>
+- 4) <a href="https://www.linkedin.com/pulse/using-app-router-nextjs-right-way-achieve-ssr-always-muhammad-bilal-sw8ye/?trackingId=UqjQHuQQRa6Z9PJfuP6fIg%3D%3D">Using App Router in NextJS the right way to achieve SSR always.</a>
 
 <!--
 <h2>🔭 I’m currently working on <a href="https://taskencher.com/" title="TaskEncher- A Project Management System for Effective Collaboration and Team Management">
