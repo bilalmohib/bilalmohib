@@ -96,7 +96,6 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
     <div class="slide"><img src="projects/taskencher/4.png" alt="Slide 4"></div>
     <div class="slide"><img src="projects/taskencher/5.png" alt="Slide 5"></div>
     <div class="slide"><img src="projects/taskencher/6.png" alt="Slide 6"></div>
-    <div class="slide"><img src="projects/taskencher/7.png" alt="Slide 7"></div>
   </div>
   <!-- <div class="navigation">
     <button class="prev" onclick="prevSlide()">&#10094;</button>
