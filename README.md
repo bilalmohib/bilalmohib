@@ -74,16 +74,38 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
 
 ## 🚀 Projects
 1. **[✅ Chemical Distribution Company Website](https://harris-and-ford.vercel.app/)**
-<div class="slider">
-  <div class="slides">
-    <div class="slide"><img src="projects/harrisAndFord/1.png" alt="Slide 1"></div>
+<div style="position: relative; width: 100%; max-width: 600px; margin: auto; overflow: hidden;">
+  <div class="slides" style="display: flex; transition: transform 0.5s ease-in-out;">
+    <div class="slide" style="min-width: 100%; box-sizing: border-box;"><img src="projects/harrisAndFord/1.png" alt="Slide 1"></div>
+    <div class="slide" style="min-width: 100%; box-sizing: border-box;"><img src="projects/harrisAndFord/2.png" alt="Slide 2"></div>
+    <div class="slide" style="min-width: 100%; box-sizing: border-box;"><img src="projects/harrisAndFord/3.png" alt="Slide 3"></div>
+    <div class="slide" style="min-width: 100%; box-sizing: border-box;"><img src="projects/harrisAndFord/4.png" alt="Slide 4"></div>
+    <div class="slide" style="min-width: 100%; box-sizing: border-box;"><img src="projects/harrisAndFord/5.png" alt="Slide 5"></div>
+    <div class="slide" style="min-width: 100%; box-sizing: border-box;"><img src="projects/harrisAndFord/6.png" alt="Slide 6"></div>
+    <div class="slide" style="min-width: 100%; box-sizing: border-box;"><img src="projects/harrisAndFord/7.png" alt="Slide 7"></div>
   </div>
-  <div class="navigation">
-    <button class="prev" onclick="prevSlide()">&#10094;</button>
-    <button class="next" onclick="nextSlide()">&#10095;</button>
+  <div class="navigation" style="position: absolute; top: 50%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);">
+    <button class="prev" style="background-color: rgba(0, 0, 0, 0.5); color: white; border: none; padding: 10px; cursor: pointer;" onclick="showSlide(currentIndex - 1)">&#10094;</button>
+    <button class="next" style="background-color: rgba(0, 0, 0, 0.5); color: white; border: none; padding: 10px; cursor: pointer;" onclick="showSlide(currentIndex + 1)">&#10095;</button>
   </div>
 </div>
 
+<script>
+  let currentIndex = 0;
+
+  function showSlide(index) {
+    const slides = document.querySelector('.slides');
+    const totalSlides = document.querySelectorAll('.slide').length;
+    if (index >= totalSlides) {
+      currentIndex = 0;
+    } else if (index < 0) {
+      currentIndex = totalSlides - 1;
+    } else {
+      currentIndex = index;
+    }
+    slides.style.transform = 'translateX(' + (-currentIndex * 100) + '%)';
+  }
+</script>
 ---
 
 2. **[✅ TaskEncher - Project Management Software](https://taskencher.com/)**
@@ -149,7 +171,7 @@ Let's build something great together!
 
 [![Hire Me](https://img.shields.io/badge/-Hire%20Me-ff69b4?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013a136c7081592898)
 
-<style>
+ <style>
   .slider {
     position: relative;
     width: 100%;
