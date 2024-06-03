@@ -77,8 +77,6 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
 <div class="slider">
   <div class="slides">
     <div class="slide"><img src="projects/harrisAndFord/1.png" alt="Slide 1"></div>
-    <div class="slide"><img src="https://via.placeholder.com/600x400?text=Slide+2" alt="Slide 2"></div>
-    <div class="slide"><img src="https://via.placeholder.com/600x400?text=Slide+3" alt="Slide 3"></div>
   </div>
   <div class="navigation">
     <button class="prev" onclick="prevSlide()">&#10094;</button>
@@ -93,8 +91,12 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
 <div class="slider">
   <div class="slides">
     <div class="slide"><img src="projects/taskencher/1.png" alt="Slide 1"></div>
-    <div class="slide"><img src="https://via.placeholder.com/600x400?text=Slide+2" alt="Slide 2"></div>
-    <div class="slide"><img src="https://via.placeholder.com/600x400?text=Slide+3" alt="Slide 3"></div>
+    <div class="slide"><img src="projects/taskencher/2.png" alt="Slide 2"></div>
+    <div class="slide"><img src="projects/taskencher/3.png" alt="Slide 3"></div>
+    <div class="slide"><img src="projects/taskencher/4.png" alt="Slide 4"></div>
+    <div class="slide"><img src="projects/taskencher/5.png" alt="Slide 5"></div>
+    <div class="slide"><img src="projects/taskencher/6.png" alt="Slide 6"></div>
+    <div class="slide"><img src="projects/taskencher/7.png" alt="Slide 7"></div>
   </div>
   <div class="navigation">
     <button class="prev" onclick="prevSlide()">&#10094;</button>
@@ -109,8 +111,6 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
 <div class="slider">
   <div class="slides">
     <div class="slide"><img src="projects/alumtec/1.png" alt="Slide 1"></div>
-    <div class="slide"><img src="https://via.placeholder.com/600x400?text=Slide+2" alt="Slide 2"></div>
-    <div class="slide"><img src="https://via.placeholder.com/600x400?text=Slide+3" alt="Slide 3"></div>
   </div>
   <div class="navigation">
     <button class="prev" onclick="prevSlide()">&#10094;</button>
@@ -127,8 +127,12 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
 <div class="slider">
   <div class="slides">
     <div class="slide"><img src="projects/sclippy/1.png" alt="Slide 1"></div>
-    <div class="slide"><img src="https://via.placeholder.com/600x400?text=Slide+2" alt="Slide 2"></div>
-    <div class="slide"><img src="https://via.placeholder.com/600x400?text=Slide+3" alt="Slide 3"></div>
+    <div class="slide"><img src="projects/sclippy/2.png" alt="Slide 2"></div>
+    <div class="slide"><img src="projects/sclippy/3.png" alt="Slide 3"></div>
+    <div class="slide"><img src="projects/sclippy/4.png" alt="Slide 4"></div>
+    <div class="slide"><img src="projects/sclippy/5.png" alt="Slide 5"></div>
+    <div class="slide"><img src="projects/sclippy/6.png" alt="Slide 6"></div>
+    <div class="slide"><img src="projects/sclippy/7.png" alt="Slide 7"></div>
   </div>
   <div class="navigation">
     <button class="prev" onclick="prevSlide()">&#10094;</button>
@@ -138,7 +142,7 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
 
 ---
 
-## 📞 Contact Me for building your MVP in 2 weeks
+### 📞 Contact Me to Build Your MVP Efficiently and Promptly
 I specialize in creating robust, scalable, and responsive web and mobile applications using cutting-edge technologies. Whether you're starting from scratch or need to enhance your current system, I can help you achieve your goals with expertise and efficiency.
 
 Let's build something great together!
