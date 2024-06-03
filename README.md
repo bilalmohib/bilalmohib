@@ -75,27 +75,46 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
 ## 🚀 Projects
 1. **[✅ Chemical Distribution Company Website](https://harris-and-ford.vercel.app/)**
 
-<div class="slider" style="display: flex; overflow-x: scroll; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scroll-behavior: smooth; scroll-snap-points-x: repeat(100%); scroll-snap-type: mandatory; width: 100%;">
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/harrisAndFord/1.png'); background-size: cover; background-position: center;"></div>
+<div class="slider">
+  <div class="slides">
+    <div class="slide"><img src="projects/harrisAndFord/1.png" alt="Slide 1"></div>
+  </div>
+  <!-- <div class="navigation">
+    <button class="prev" onclick="prevSlide()">&#10094;</button>
+    <button class="next" onclick="nextSlide()">&#10095;</button>
+  </div> -->
 </div>
 ---
 
 2. **[✅ TaskEncher - Project Management Software](https://taskencher.com/)**
 
-<div class="slider" style="display: flex; overflow-x: scroll; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scroll-behavior: smooth; scroll-snap-points-x: repeat(100%); scroll-snap-type: mandatory; width: 100%;">
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/taskencher/1.png'); background-size: cover; background-position: center;"></div>
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/taskencher/2.png'); background-size: cover; background-position: center;"></div>
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/taskencher/3.png'); background-size: cover; background-position: center;"></div>
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/taskencher/4.png'); background-size: cover; background-position: center;"></div>
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/taskencher/5.png'); background-size: cover; background-position: center;"></div>
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/taskencher/6.png'); background-size: cover; background-position: center;"></div>
+<div class="slider">
+  <div class="slides">
+    <div class="slide"><img src="projects/taskencher/1.png" alt="Slide 1"></div>
+    <div class="slide"><img src="projects/taskencher/2.png" alt="Slide 2"></div>
+    <div class="slide"><img src="projects/taskencher/3.png" alt="Slide 3"></div>
+    <div class="slide"><img src="projects/taskencher/4.png" alt="Slide 4"></div>
+    <div class="slide"><img src="projects/taskencher/5.png" alt="Slide 5"></div>
+    <div class="slide"><img src="projects/taskencher/6.png" alt="Slide 6"></div>
+    <div class="slide"><img src="projects/taskencher/7.png" alt="Slide 7"></div>
+  </div>
+  <!-- <div class="navigation">
+    <button class="prev" onclick="prevSlide()">&#10094;</button>
+    <button class="next" onclick="nextSlide()">&#10095;</button>
+  </div> -->
 </div>
-
 ---
 
 4. **[✅ Construction Company Website](https://alumtec.ca/)**
-<div class="slider" style="display: flex; overflow-x: scroll; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scroll-behavior: smooth; scroll-snap-points-x: repeat(100%); scroll-snap-type: mandatory; width: 100%;">
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/alumtec/1.png'); background-size: cover; background-position: center;"></div>
+
+<div class="slider">
+  <div class="slides">
+    <div class="slide"><img src="projects/alumtec/1.png" alt="Slide 1"></div>
+  </div>
+  <!-- <div class="navigation">
+    <button class="prev" onclick="prevSlide()">&#10094;</button>
+    <button class="next" onclick="nextSlide()">&#10095;</button>
+  </div> -->
 </div>
 
 ---
@@ -104,13 +123,20 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
    - [Website](https://sclippy.com/)
    - [GitHub Repository](https://github.com/bilalmohib/sclippy)
 
-<div class="slider" style="display: flex; overflow-x: scroll; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scroll-behavior: smooth; scroll-snap-points-x: repeat(100%); scroll-snap-type: mandatory; width: 100%;">
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/sclippy/1.png'); background-size: cover; background-position: center;"></div>
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/sclippy/2.png'); background-size: cover; background-position: center;"></div>
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/sclippy/3.png'); background-size: cover; background-position: center;"></div>
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/sclippy/4.png'); background-size: cover; background-position: center;"></div>
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/sclippy/5.png'); background-size: cover; background-position: center;"></div>
-  <div class="slide" style="flex: 0 0 100%; scroll-snap-align: start; height: 200px; background-image: url('projects/sclippy/6.png'); background-size: cover; background-position: center;"></div>
+<div class="slider">
+  <div class="slides">
+    <div class="slide"><img src="projects/sclippy/1.png" alt="Slide 1"></div>
+    <div class="slide"><img src="projects/sclippy/2.png" alt="Slide 2"></div>
+    <div class="slide"><img src="projects/sclippy/3.png" alt="Slide 3"></div>
+    <div class="slide"><img src="projects/sclippy/4.png" alt="Slide 4"></div>
+    <div class="slide"><img src="projects/sclippy/5.png" alt="Slide 5"></div>
+    <div class="slide"><img src="projects/sclippy/6.png" alt="Slide 6"></div>
+    <div class="slide"><img src="projects/sclippy/7.png" alt="Slide 7"></div>
+  </div>
+  <!-- <div class="navigation">
+    <button class="prev" onclick="prevSlide()">&#10094;</button>
+    <button class="next" onclick="nextSlide()">&#10095;</button>
+  </div> -->
 </div>
 
 ---
