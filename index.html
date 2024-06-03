@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .slider {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin: auto;
+            overflow: hidden;
+        }
+
+        .slides {
+            display: flex;
+            transition: transform 0.5s ease-in-out;
+        }
+
+        .slide {
+            min-width: 100%;
+            box-sizing: border-box;
+        }
+
+        .navigation {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            transform: translateY(-50%);
+        }
+
+        .prev,
+        .next {
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="slider">
+        <div class="slides">
+            <div class="slide"><img src="https://via.placeholder.com/600x400?text=Slide+1" alt="Slide 1"></div>
+            <div class="slide"><img src="https://via.placeholder.com/600x400?text=Slide+2" alt="Slide 2"></div>
+            <div class="slide"><img src="https://via.placeholder.com/600x400?text=Slide+3" alt="Slide 3"></div>
+        </div>
+        <div class="navigation">
+            <button class="prev" onclick="prevSlide()">&#10094;</button>
+            <button class="next" onclick="nextSlide()">&#10095;</button>
+        </div>
+    </div>
+</body>
+<script>
+    let currentIndex = 0;
+
+    function showSlide(index) {
+        const slides = document.querySelector('.slides');
+        const totalSlides = document.querySelectorAll('.slide').length;
+        if (index >= totalSlides) {
+            currentIndex = 0;
+        } else if (index < 0) {
+            currentIndex = totalSlides - 1;
+        } else {
+            currentIndex = index;
+        }
+        slides.style.transform = 'translateX(' + (-currentIndex * 100) + '%)';
+    }
+
+    function nextSlide() {
+        showSlide(currentIndex + 1);
+    }
+
+    function prevSlide() {
+        showSlide(currentIndex - 1);
+    }
+</script>
+</html>
