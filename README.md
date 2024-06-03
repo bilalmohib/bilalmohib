@@ -74,6 +74,41 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
 
 ## 🚀 Projects
 1. **[✅ Chemical Distribution Company Website](https://harris-and-ford.vercel.app/)**
+
+
+<style>
+  .slider {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    overflow: hidden;
+  }
+  .slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  .slide {
+    min-width: 100%;
+    box-sizing: border-box;
+  }
+  .navigation {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+  }
+  .prev, .next {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+</style>
+
 <div class="slider">
   <div class="slides">
     <div class="slide"><img src="projects/harrisAndFord/1.png" alt="Slide 1"></div>
@@ -83,6 +118,32 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
     <button class="next" onclick="nextSlide()">&#10095;</button>
   </div>
 </div>
+
+<script>
+  let currentIndex = 0;
+
+  function showSlide(index) {
+    const slides = document.querySelector('.slides');
+    const totalSlides = document.querySelectorAll('.slide').length;
+    if (index >= totalSlides) {
+      currentIndex = 0;
+    } else if (index < 0) {
+      currentIndex = totalSlides - 1;
+    } else {
+      currentIndex = index;
+    }
+    slides.style.transform = 'translateX(' + (-currentIndex * 100) + '%)';
+  }
+
+  function nextSlide() {
+    showSlide(currentIndex + 1);
+  }
+
+  function prevSlide() {
+    showSlide(currentIndex - 1);
+  }
+</script>
+
 
 ---
 
@@ -149,60 +210,4 @@ Let's build something great together!
 
 [![Hire Me](https://img.shields.io/badge/-Hire%20Me-ff69b4?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013a136c7081592898)
 
-<style>
-  .slider {
-    position: relative;
-    width: 100%;
-    max-width: 600px;
-    margin: auto;
-    overflow: hidden;
-  }
-  .slides {
-    display: flex;
-    transition: transform 0.5s ease-in-out;
-  }
-  .slide {
-    min-width: 100%;
-    box-sizing: border-box;
-  }
-  .navigation {
-    position: absolute;
-    top: 50%;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    transform: translateY(-50%);
-  }
-  .prev, .next {
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
-    border: none;
-    padding: 10px;
-    cursor: pointer;
-  }
-</style>
 
-<script>
-  let currentIndex = 0;
-
-  function showSlide(index) {
-    const slides = document.querySelector('.slides');
-    const totalSlides = document.querySelectorAll('.slide').length;
-    if (index >= totalSlides) {
-      currentIndex = 0;
-    } else if (index < 0) {
-      currentIndex = totalSlides - 1;
-    } else {
-      currentIndex = index;
-    }
-    slides.style.transform = 'translateX(' + (-currentIndex * 100) + '%)';
-  }
-
-  function nextSlide() {
-    showSlide(currentIndex + 1);
-  }
-
-  function prevSlide() {
-    showSlide(currentIndex - 1);
-  }
-</script>
