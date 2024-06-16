@@ -140,9 +140,11 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
 
 ---
 
+<!-- 
 ### 📞 Contact Me to Build Your MVP Efficiently and Promptly
 I specialize in creating robust, scalable, and responsive web and mobile applications using cutting-edge technologies. Whether you're starting from scratch or need to enhance your current system, I can help you achieve your goals with expertise and efficiency.
 
 Let's build something great together!
 
-[![Hire Me](https://img.shields.io/badge/-Hire%20Me-ff69b4?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013a136c7081592898)
+[![Hire Me](https://img.shields.io/badge/-Hire%20Me-ff69b4?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013a136c7081592898) 
+-->
