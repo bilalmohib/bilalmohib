@@ -55,8 +55,10 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter: **[
   ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 
 
-- 📫 How to reach me: [Upwork](https://www.upwork.com/freelancers/~013a136c7081592898)
-- Looking for a Full Stack Developer? [Hire Me](https://www.upwork.com/freelancers/~013a136c7081592898)
+<!-- - 📫 How to reach me: [Upwork](https://www.upwork.com/freelancers/~013a136c7081592898) -->
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bilalmohib)
+<!-- - Looking for a Full Stack Developer? [Hire Me](https://www.upwork.com/freelancers/~013a136c7081592898) -->
 
 ---
 
