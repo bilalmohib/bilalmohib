@@ -15,7 +15,7 @@ I avoid “prompt and polish” development. I use modern tools to move faster w
 ## 🌐 SaaS & Production Platforms
 
 ### 🚀 SmartlyQ — AI Marketing Automation Platform
-🔗 https://smartlyq.ai  
+🔗 https://smartlyq.com
 
 SmartlyQ is a production SaaS platform built for AI-powered marketing automation.  
 I worked on this product from the ground up:
