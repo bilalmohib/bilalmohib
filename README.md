@@ -2,7 +2,13 @@
 
 # Hi There, I'm Muhammad Bilal 👋
 
-I am a Full Stack Web and Mobile App Developer with 5+ years of experience building real-world, production-ready applications. I work primarily with React, Next.js, TypeScript, PostgreSQL, Firebase, and modern frontend tooling. I focus on clean architecture, performance, and long-term maintainability.
+I am a Full Stack Web and Mobile App Developer with 5+ years of experience building real-world, production-ready applications for startups and growing businesses. I specialize in designing, developing, and scaling modern web platforms using React, Next.js, TypeScript, PostgreSQL, Firebase, and modern frontend tooling.
+
+My work focuses on clean architecture, performance, and long-term maintainability. I care deeply about writing readable, well-structured code that scales with product growth rather than breaking under it. I’ve worked on products from early MVP stages to production systems with real users, where reliability, performance, and clear ownership matter.
+
+I’m comfortable owning features end-to-end — from UI/UX implementation and frontend architecture to API integration and data modeling. I collaborate closely with designers, founders, and product teams to ensure what ships matches the original intent and business goals, not just the spec.
+
+I avoid “prompt and polish” development. I use modern tools to move faster where they make sense, but critical decisions around system design, performance, and data integrity are always made deliberately. My goal is to build software that is easy to extend, easy to maintain, and trusted in production.
 
 ---
 
