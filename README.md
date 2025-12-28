@@ -90,7 +90,7 @@ If you find my articles helpful, please subscribe to my LinkedIn newsletter:
 
 ## 🤝 Design & Figma Collaboration
 
-I work extensively in **Figma** and collaborate closely with designers and stakeholders:
+I work extensively with designers who design in **Figma** and collaborate closely with designers and stakeholders:
 
 - Reviewing layouts before development
 - Refining spacing, components, and interactions
@@ -98,8 +98,6 @@ I work extensively in **Figma** and collaborate closely with designers and stake
 - Ensuring the shipped product matches design intent exactly
 
 Most Figma files are client-owned and private, but I regularly walk teams through designs live and iterate transparently.
-
-Yes — I’m a **Figmaniac**.
 
 ---
 
