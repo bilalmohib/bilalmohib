@@ -156,15 +156,12 @@ Yes — I’m a **Figmaniac**.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalmohib&show_icons=true&count_private=true&hide_border=true" width="600"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalmohib&hide_border=true" width="800"/>
+  <img src="https://metrics.lecoq.io/bilalmohib?template=classic&isocalendar=1&languages=1&followup=1&stars=1&achievements=1&lines=1&config.timezone=Asia/Karachi" />
 </p>
 
 ---
 
 ## 📞 Contact
-
 - LinkedIn: https://www.linkedin.com/in/bilalmohib
 - GitHub: https://github.com/bilalmohib
 
