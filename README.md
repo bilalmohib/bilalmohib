@@ -12,6 +12,14 @@ I avoid “prompt and polish” development. I use modern tools to move faster w
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/bilalmohib?template=classic&isocalendar=1&languages=1&followup=1&stars=1&achievements=1&lines=1&config.timezone=Asia/Karachi" />
+</p>
+
+---
+
 ## 🌐 SaaS & Production Platforms
 
 ### 🚀 SmartlyQ — AI Marketing Automation Platform
@@ -150,16 +158,6 @@ Yes — I’m a **Figmaniac**.
     <div class="slide"><img src="projects/sclippy/7.png"></div>
   </div>
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/bilalmohib?template=classic&isocalendar=1&languages=1&followup=1&stars=1&achievements=1&lines=1&config.timezone=Asia/Karachi" />
-</p>
-
----
 
 ## 📞 Contact
 - LinkedIn: https://www.linkedin.com/in/bilalmohib
