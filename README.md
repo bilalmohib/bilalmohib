@@ -1,17 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bilalmohib&color=blue&style=flat-square)
 
-## 📞 Hire Me for your next MVP Development
-If you're a founder or business owner looking to build a **production-ready MVP or scalable SaaS**, I can help you move fast without cutting corners.
-
-I specialize in:
-- MVPs that scale
-- Clean, original code (no “prompt and polish”)
-- Design-to-code execution
-- Long-term maintainable systems
-
-🔗 **Upwork Profile (Hire Me):**  
-https://www.upwork.com/freelancers/~013a136c7081592898
-
 # Hi There, I'm Muhammad Bilal 👋
 
 I am a Full Stack Web and Mobile App Developer with 5+ years of experience building real-world, production-ready applications for startups and growing businesses. I specialize in designing, developing, and scaling modern web platforms using React, Next.js, TypeScript, PostgreSQL, Firebase, and modern frontend tooling.
@@ -23,6 +11,18 @@ I’m comfortable owning features end-to-end — from UI/UX implementation and f
 I avoid “prompt and polish” development. I use modern tools to move faster where they make sense, but critical decisions around system design, performance, and data integrity are always made deliberately. My goal is to build software that is easy to extend, easy to maintain, and trusted in production.
 
 ---
+
+## 📞 Hire Me for your next MVP Development
+If you're a founder or business owner looking to build a **production-ready MVP or scalable SaaS**, I can help you move fast without cutting corners.
+
+I specialize in:
+- MVPs that scale
+- Clean, original code (no “prompt and polish”)
+- Design-to-code execution
+- Long-term maintainable systems
+
+🔗 **Contact Me (Upwork):**  
+https://www.upwork.com/freelancers/~013a136c7081592898
 
 ## 📊 GitHub Analytics
 
