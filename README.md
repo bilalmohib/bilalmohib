@@ -10,6 +10,7 @@ I’m comfortable owning features end-to-end — from UI/UX implementation and f
 
 I avoid “prompt and polish” development. I use modern tools to move faster where they make sense, but critical decisions around system design, performance, and data integrity are always made deliberately. My goal is to build software that is easy to extend, easy to maintain, and trusted in production.
 
+<!--
 ---
 
 ## 📞 Hire Me for your next MVP Development
@@ -23,6 +24,7 @@ I specialize in:
 
 🔗 **Contact Me (Upwork):**  
 https://www.upwork.com/freelancers/~013a136c7081592898
+-->
 
 ## 📊 GitHub Analytics
 
