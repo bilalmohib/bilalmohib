@@ -29,7 +29,8 @@ https://www.upwork.com/freelancers/~013a136c7081592898
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/bilalmohib?template=classic&isocalendar=1&languages=1&followup=1&stars=1&achievements=1&lines=1&config.timezone=Asia/Karachi" />
+  <img src="https://metrics.lecoq.io/bilalmohib?template=classic&isocalendar=1&languages=1&followup=1&stars=1&achievements=1&lines=1&config.timezone=Asia/Karachi" 
+    />
 </p>
 
 ---
